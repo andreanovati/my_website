@@ -13,10 +13,10 @@ params:
     title: Hi, my name is Andrea
   blog: {}
   contact: anovati.mfa2022@london.edu
-    address: Regent's Park, London NW1 4SA
-      - city: City, ST 00000
+    address: 
+      - city: London
         country: Country
-        street: Street
+        street: LBS, Regents Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
