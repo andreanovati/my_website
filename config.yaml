@@ -12,7 +12,7 @@ params:
       AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Andrea
   blog: {}
-  contact: anovati.mfa2022@london.edu
+  contact:
     address: 
       - city: London
         country: Country
@@ -21,7 +21,7 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: anovati.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
