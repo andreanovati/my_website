@@ -23,10 +23,10 @@ params:
     email:
       - email: anovati.mfa2022@london.edu
         title: Email
-    enable: yes
-    phone:
-      - phone: (000) 000-0000 x1234
-        title: Phone
+    enable: no
+#    phone:
+ #     - phone: (000) 000-0000 x1234
+  #      title: Phone
   custom_css: []
   custom_js: []
   description: Your description
@@ -81,9 +81,9 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: EverestSunset.jpg.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: EverestSunset.jpg
+        subtitle: I love skiing
+        title: Mountains
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
