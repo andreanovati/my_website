@@ -43,17 +43,17 @@ params:
         url: https://www.html5up.net
     social:
      # - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+     #  label: Twitter
+      #  url: https://www.twitter.com
      # - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+      #  label: Facebook
+       # url: https://www.facebook.com
      # - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
+        #label: Instagram
+        #url: https://www.instagram.com
      # - icon: fa-github
-        label: GitHub
-        url: https://www.github.com
+        #label: GitHub
+        #url: https://www.github.com
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/anovati/
