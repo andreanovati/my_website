@@ -7,8 +7,8 @@ description: ""
 draft: false
 image: pic10.jpg
 keywords: ""
-slug: 
-title: Ipsu
+slug: ipsum
+title: St. Moritz
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+St. Moritz is a luxury alpine resort town in Switzerland’s Engadin valley. It has hosted the Winter Olympics twice, has the Cresta Run, a world-championship bobsled run made of natural ice, and an outdoor Olympic ice rink. Its frozen lake hosts polo, cricket and even horse racing on ice. Ski and snowboard areas include Corviglia, Diavolezza and Corvatsch, and there are well-groomed cross-country ski trails.
