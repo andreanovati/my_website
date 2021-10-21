@@ -87,15 +87,15 @@ params:
         url: blogs/aliquam
       - image: Santorini.jpg
         subtitle: Holidays
-        title: Tempus
+        title: Sea
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: Downhill.jpg
+        subtitle: Downhill biking
+        title: My mountain sports
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+      - image: Surf.jpg
+        subtitle: Surf
+        title: My sea sports
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
