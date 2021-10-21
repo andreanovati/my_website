@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      WEBSITE 
     title: Hi, my name is Andrea
   blog: {}
   contact:
@@ -84,7 +83,7 @@ params:
       - image: EverestSunset.jpg
         subtitle: A life in the mountains
         title: Mountains
-        url: blogs/Website
+        url: blogs/ipsum
       - image: Santorini.jpg
         subtitle: Holidays
         title: Sea
