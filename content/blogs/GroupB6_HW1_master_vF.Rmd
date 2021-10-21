@@ -8,7 +8,7 @@ description: Einstein once said that everything is relative and this is at least
 draft: false
 image:
 Keywords: ""
-slug: Website
+slug: website
 title: Website
 
 
