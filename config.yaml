@@ -91,19 +91,19 @@ params:
         url: blogs/tempus
       - image: Downhill.jpg
         subtitle: Downhill biking
-        title: My mountain sports
+        title: My mountain sport
         url: blogs/magna
       - image: Surf.jpg
         subtitle: Surf
-        title: My sea sports
+        title: My sea sport
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+      - image: Fed.jpg
+        subtitle: Tennis
+        title: My city sport
         url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+      - image: Eye.jpg
+        subtitle: Spy novels
+        title: Hobbies
         url: blogs/ipsum
   two:
     buttonText: Get Started
