@@ -82,11 +82,11 @@ params:
     enable: yes
     showcase:
       - image: EverestSunset.jpg
-        subtitle: I love skiing
+        subtitle: A life in the mountains
         title: Mountains
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
+      - image: Santorini.jpg
+        subtitle: Holidays
         title: Tempus
         url: blogs/tempus
       - image: pic03.jpg
